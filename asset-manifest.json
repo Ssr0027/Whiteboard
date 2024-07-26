@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Whiteboard/static/css/main.e6c13ad2.css",
+    "main.js": "/Whiteboard/static/js/main.dbf56b3b.js",
+    "static/js/453.bd218bb5.chunk.js": "/Whiteboard/static/js/453.bd218bb5.chunk.js",
+    "index.html": "/Whiteboard/index.html",
+    "main.e6c13ad2.css.map": "/Whiteboard/static/css/main.e6c13ad2.css.map",
+    "main.dbf56b3b.js.map": "/Whiteboard/static/js/main.dbf56b3b.js.map",
+    "453.bd218bb5.chunk.js.map": "/Whiteboard/static/js/453.bd218bb5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.dbf56b3b.js"
+  ]
+}
